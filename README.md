@@ -16,7 +16,7 @@
 
 Fonte is an AI-powered writing assistant that helps users proofread and draft writing materials, from emails to academic papers. It leverages modern AI capabilities through Gemini's language models to provide intelligent writing assistance.
 
-But it's mostly created for fun and myself because I often double-check my writings on POE. Plus I want to work on a side project so let's see if I can do it better.
+But it's mostly created for fun and myself because I often double-check my writings on POE. Plus I want to test how true the AI vibe coding craze is with a side project (if you're looking for free API keys, just move on as that won't happen here :P) so let's see if I can do it better.
 
 ## Architecture
 
