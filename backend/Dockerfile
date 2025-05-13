@@ -10,6 +10,9 @@ COPY requirements.txt ./
 # Install dependencies using uv
 RUN pip install -r requirements.txt
 
+# Install curl
+RUN apt-get update && apt-get install -y curl
+
 # Copy the rest of the code
 COPY . .
 
