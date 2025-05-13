@@ -1,2 +1,19 @@
+# Environment variables
 *.env
-*/*.pyc
+
+# Python compiled files
+**/*.pyc
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+.venv/
+.env/
+venv/
+env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
